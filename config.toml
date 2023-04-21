@@ -5,6 +5,7 @@ subtitle = 'Weekly digest of interesting news and tool about crypto, nft and blo
 theme = 'terminal'
 keywords = 'crypto,blockchain,nft,smartcontract,cryptocurrency'
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
   contentTypeName = "posts"
