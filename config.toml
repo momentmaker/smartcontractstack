@@ -1,0 +1,56 @@
+baseURL = 'https://smartcontractstack.com/'
+languageCode = 'en-us'
+title = 'Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest'
+subtitle = 'Weekly digest of interesting news and tool about crypto, nft and blockchain'
+theme = 'terminal'
+keywords = 'crypto,blockchain,nft,smartcontract,cryptocurrency'
+enableRobotsTXT = true
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "pink"
+  showMenuItems = 0
+  showLanguageSelector = false
+  fullWidthTheme = true
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+  favicon = "favicon.ico"
+  readingTime = true
+  images = ['logo.png']
+  subtitle = 'Weekly digest of interesting news and tool about crypto, nft and blockchain'
+
+[params.giscus]
+  repo = "momentmaker/smartcontractstack"
+  repoID = "R_kgDOJZ02rw"
+  category = "Posts"
+  categoryID = "DIC_kwDOJZ02r84CV9N_"
+  mapping = "og:title"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "dark"
+  lang = "en"
+  loading = "lazy"
+
+[params.twitter]
+  creator = "smartcontractsk"
+  site = "smartcontractstack"
+  image = "https://smartcontractstack.com/logo.png"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    menuMore = "Show"
+    readMore = "Read"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "SmartContractStack"
+      logoHomeLink = "/"
