@@ -53,5 +53,5 @@ enableEmoji = true
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "SmartContractStack"
+      logoText = "⬡⏣⬡"
       logoHomeLink = "/"
