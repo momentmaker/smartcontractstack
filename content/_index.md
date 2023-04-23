@@ -11,3 +11,9 @@ Get your weekly dose of crypto, blockchain, and nft related news and tool.
 Feel free to reach out at oracle@smartcontractstack.com
 
 [@smartcontractsk](https://twitter.com/smartcontractsk) ⬡ [rss](https://smartcontractstack.com/index.xml)
+
+⬡ ⬡ ⬡ ⏣ ⬡ ⬡ ⬡
+
+**more weekly digests**
+
+[perprompt](https://perprompt.com) ⬡ [stretcht](https://stretcht.com)
