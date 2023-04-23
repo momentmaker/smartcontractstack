@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smartcontractstack.com/categories/</loc>
+    <loc>https://smartcontractstack.com/tags/arbitrum/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/chainlink/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/coinbase/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/posts/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/regulation/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/wallet/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/posts/w16-2023/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/categories/</loc>
   </url>
 </urlset>
