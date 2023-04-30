@@ -10,7 +10,7 @@ Get your weekly dose of crypto, blockchain, and nft related news and tool.
 
 Feel free to reach out at oracle@smartcontractstack.com
 
-[@smartcontractsk](https://twitter.com/smartcontractsk) ⬡ [rss](https://smartcontractstack.com/index.xml)
+[subscribe](mailto:subscribe@smartcontractstack.com?subject=add%20me) ⬡ [@smartcontractsk](https://twitter.com/smartcontractsk) ⬡ [rss](https://smartcontractstack.com/index.xml)
 
 ⬡ ⬡ ⬡ ⏣ ⬡ ⬡ ⬡
 
