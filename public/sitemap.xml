@@ -2,28 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smartcontractstack.com/tags/adoption/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://smartcontractstack.com/tags/arbitrum/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/aws/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/bitcoin/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/chainlink/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://smartcontractstack.com/tags/coinbase/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <loc>https://smartcontractstack.com/tags/dao/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/data/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/dex/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/event/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/gmx/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/guide/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/learning/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/mtgox/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/oss/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/posts/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/regulation/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/reputation/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/sec/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/smart-contract/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/tracking/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/trading/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/twitter/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/updates/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/usdc/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/wallet/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/posts/w17-2023/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/coinbase/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/posts/w16-2023/</loc>

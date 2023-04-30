@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</title>
+    <link>https://smartcontractstack.com/tags/data/</link>
+    <description>Recent content in data on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 17 - 2023</title>
+      <link>https://smartcontractstack.com/posts/w17-2023/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/posts/w17-2023/</guid>
+      <description>news Transactions on Arbitrum Surpass Bitcoin — Along With Fees - Blockworks (blockworks.co) - Even as transactions accelerate, the cost to use the Arbitrum blockchain remains low
+Borrowing Crypto With DeFi? TransUnion Shares Real-world Credit Scores - Blockworks (blockworks.co) - TransUnion is paying close attention to the crypto ecosystem, now connecting DeFi protocols with real-world credit scores
+Texas ‘Proof of Reserves’ Bill Advances to Senate - Blockworks (blockworks.co) - The bill focuses on digital asset providers who have $10 million in customer funds or over 500 customers</description>
+      <content>&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://blockworks.co/news/transactions-arbitrum-bitcoin-fees&#34;&gt;Transactions on Arbitrum Surpass Bitcoin — Along With Fees - Blockworks&lt;/a&gt; &lt;sub&gt;(blockworks.co)&lt;/sub&gt;
+ - Even as transactions accelerate, the cost to use the Arbitrum blockchain remains low&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blockworks.co/news/transunion-crypto-defi-credit-scores&#34;&gt;Borrowing Crypto With DeFi? TransUnion Shares Real-world Credit Scores - Blockworks&lt;/a&gt; &lt;sub&gt;(blockworks.co)&lt;/sub&gt;
+ - TransUnion is paying close attention to the crypto ecosystem, now connecting DeFi protocols with real-world credit scores&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blockworks.co/news/texas-proof-of-reserves-bill-advances-to-senate&#34;&gt;Texas ‘Proof of Reserves’ Bill Advances to Senate - Blockworks&lt;/a&gt; &lt;sub&gt;(blockworks.co)&lt;/sub&gt;
+ - The bill focuses on digital asset providers who have $10 million in customer funds or over 500 customers&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://decrypt.co/137503/crypto-vc-funding-down-82-percent&#34;&gt;Crypto VC Funding Down 82% Compared to Last Year - Decrypt&lt;/a&gt; &lt;sub&gt;(decrypt.co)&lt;/sub&gt;
+ - The evaporating funding means &amp;ldquo;a lot of companies are doing their down rounds,&amp;rdquo; said the founder of Delta Blockchain Fund.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://decrypt.co/137144/hong-kong-is-vying-to-be-the-next-crypto-hub&#34;&gt;Hong Kong Is Vying To Be The Next Crypto Hub - Decrypt&lt;/a&gt; &lt;sub&gt;(decrypt.co)&lt;/sub&gt;
+ - Hong Kong has historically provided fertile soil to grow financial institutions. Can it also make magic for crypto firms?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/cowswap/status/1647962756400701443&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Say hello to &lt;em&gt;partially fillable limit orders&lt;/em&gt; from CoW Swap. Now enabled by default, partial fills bring faster trade settlement to limit orders – even in moments of low liquidity. 🏃💨&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dlnews.com/articles/defi/sherlock-defi-insurer-on-edge-euler-hack/&#34;&gt;Sherlock DeFi Insurer on the rocks&lt;/a&gt; &lt;sub&gt;(dlnews.com)&lt;/sub&gt;
+ - Sherlock, a platform that insures the integrity of computer code powering DeFi protocols, is in dire straits. Over the last year, its reserves have fallen by 90%, to $3 million.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cointelegraph.com/news/subgraph-hosted-service-launches-as-the-graph-prepares-for-decentralization&#34;&gt;Subgraph hosted service launches as The Graph prepares for decentralization&lt;/a&gt; &lt;sub&gt;(cointelegraph.com)&lt;/sub&gt;
+ - The new service will make it easier for mid-tier or small-tier subgraphs to be indexed and discovered.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/blockblanc/status/1648998168527360001&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - 🕊️ @Free__Alexey IS FREE TO GO HOME  🕊️&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/EnsoFinance/status/1649049560696909824&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Use Enso now to navigate all of DeFi from a single dashboard with a single click!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/0xfoobar/status/1649056938062118913&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - France launched a stablecoin on Ethereum and it&amp;rsquo;s the worst code I&amp;rsquo;ve ever seen&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coindesk.com/policy/2023/04/20/eu-parliament-approves-crypto-licensing-funds-transfer-rules/&#34;&gt;The European Parliament Has Voted for the EU&amp;rsquo;s Landmark MiCA Regulation and Anti-Money Laundering Transfer of Funds Rules&lt;/a&gt; &lt;sub&gt;(coindesk.com)&lt;/sub&gt;
+ - Lawmakers in the European Union on Thursday voted 517-38 in favor of a new crypto licensing regime, Markets in Crypto-Assets (MiCA), with 18 absentions, making it the first major jurisdiction in the world to introduce a comprehensive crypto law.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theblock.co/post/228047/coinbase-sues-the-sec-for-answer-on-rule-specific-to-digital-assets&#34;&gt;The Block: Coinbase sues the SEC to get digital asset-specific rule&lt;/a&gt; &lt;sub&gt;(theblock.co)&lt;/sub&gt;
+ - The U.S. crypto giant is taking the markets regulatory agency to court in order to force the SEC to respond to a petition that the company filed aiming for a rule specific to digital assets. { &lt;a href=&#34;https://smartcontractstack.com/tags/sec&#34;&gt;#sec&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coindesk.com/business/2023/04/25/decentralized-exchange-gmx-connects-to-chainlinks-low-latency-oracles-following-community-vote/&#34;&gt;Decentralized Exchange GMX Connects to Data Provider Chainlink&amp;rsquo;s Low-Latency Oracles Following Community Vote&lt;/a&gt; &lt;sub&gt;(coindesk.com)&lt;/sub&gt;
+ - Arbitrum-based decentralized exchange GMX will connect to Chainlink&amp;rsquo;s low-latency pricing oracles, which are designed to feed price data faster than regular oracles, to enhance its derivatives and perpetual swap exchange. { &lt;a href=&#34;https://smartcontractstack.com/tags/chainlink&#34;&gt;#chainlink&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/arbitrum&#34;&gt;#arbitrum&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/gmx&#34;&gt;#gmx&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/technology/crypto-must-end-anonymity-illicit-finance-us-regulator-says-2023-04-25/&#34;&gt;Crypto must end anonymity for illicit finance, U.S. regulator says | Reuters&lt;/a&gt; &lt;sub&gt;(reuters.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35701478&#34;&gt;💬 discussion&lt;/a&gt;] - Anonymity is allowing crypto assets to finance illegal activities, a top U.S. regulatory official said on Tuesday, posing national security risks that must be addressed. { &lt;a href=&#34;https://smartcontractstack.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cointelegraph.com/news/gary-gensler-links-crypto-with-cash-in-viral-2018-video-crypto-twitter-reacts&#34;&gt;Gary Gensler links crypto with cash in viral 2018 video — Crypto Twitter reacts&lt;/a&gt; &lt;sub&gt;(cointelegraph.com)&lt;/sub&gt;
+ - As an MIT professor in 2018, Gary Gensler didn’t think most ICOs triggered United States securities laws. { &lt;a href=&#34;https://smartcontractstack.com/tags/sec&#34;&gt;#sec&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://9to5mac.com/2023/04/25/apple-removes-bitcoin-whitepaper-from-macos/&#34;&gt;Apple removes Bitcoin whitepaper from the latest macOS beta&lt;/a&gt; &lt;sub&gt;(9to5mac.com)&lt;/sub&gt;
+ - A few weeks ago, users discovered that every copy of macOS has the original Bitcoin whitepaper hidden in its internal files. Apple never discussed the reason for this, although we believe that the existence of the file there was just a joke among Apple engineers. Now the file is gone with the latest version of macOS Ventura beta. { &lt;a href=&#34;https://smartcontractstack.com/tags/bitcoin&#34;&gt;#bitcoin&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/circle/status/1651212222973071362&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Today marks a new milestone! Cross-Chain Transfer Protocol (#CCTP) is now on mainnet for @Ethereum and @Avax { &lt;a href=&#34;https://smartcontractstack.com/tags/usdc&#34;&gt;#usdc&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blockworks.co/news/uniswap-dex-us-regulation&#34;&gt;All Eyes on US Regulation as Uniswap Eclipses $1.5T Trading Volume - Blockworks&lt;/a&gt; &lt;sub&gt;(blockworks.co)&lt;/sub&gt;
+ - Industry participants are eyeing the outlook for DEX products in Washington { &lt;a href=&#34;https://smartcontractstack.com/tags/dex&#34;&gt;#dex&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dune.com/blog/new-paid-experience&#34;&gt;New Paid Experience&lt;/a&gt; &lt;sub&gt;(dune.com)&lt;/sub&gt;
+ - The Dune API, revamped subscription plans and a more powerful free experience { &lt;a href=&#34;https://smartcontractstack.com/tags/tracking&#34;&gt;#tracking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theblock.co/post/228824/paypal-extending-crypto-transfers-to-more-than-60-million-venmo-customers&#34;&gt;The Block: PayPal brings crypto transfers to 60 million Venmo users&lt;/a&gt; &lt;sub&gt;(theblock.co)&lt;/sub&gt;
+ - Nearly a year after PayPal allowed users to transfer crypto between its platform and other wallets, the company is set to roll out a similar feature for its more than 60 million Venmo customers located in the United States. { &lt;a href=&#34;https://smartcontractstack.com/tags/adoption&#34;&gt;#adoption&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/&#34;&gt;How Jack Dorsey&amp;rsquo;s Bitcoin Legal Defense Fund is fighting for the future of open source software | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35752845&#34;&gt;💬 discussion&lt;/a&gt;] - How Jack Dorsey’s Bitcoin Legal Defense Fund is fighting for the future of open source software { &lt;a href=&#34;https://smartcontractstack.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/chainlink/status/1651996477122654222&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - AWS Startup support the Chainlink BUILD program by providing multiple perks to its members { &lt;a href=&#34;https://smartcontractstack.com/tags/chainlink&#34;&gt;#chainlink&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/aws&#34;&gt;#aws&lt;/a&gt;
+ } [ht: ]&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.joinfire.xyz/&#34;&gt;Fire - Web3 Safety Tool&lt;/a&gt; &lt;sub&gt;(joinfire.xyz)&lt;/sub&gt;
+ - Fire is a free browser extension that simulates web3 transactions, showing you exactly what will enter and exit your wallet before you sign the contract. All under control with your current wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vcdata.site/&#34;&gt;Venture Funding Events In Web3  ·  Web3 VC Data&lt;/a&gt; &lt;sub&gt;(vcdata.site)&lt;/sub&gt;
+ - The data is a mix of enterprise sources which have been licensed and founders sharing their data. The numbers go back to 2021. This is still a beta product. Originally inspired by Dove Metrics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://viem.sh/&#34;&gt;viem · TypeScript Interface for Ethereum&lt;/a&gt; &lt;sub&gt;(viem.sh)&lt;/sub&gt;
+ - Build reliable apps &amp;amp; libraries with lightweight, composable, and type-safe modules that interface with Ethereum&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/OffcierCia/On-Chain-Investigations-Tools-List&#34;&gt;GitHub - OffcierCia/On-Chain-Investigations-Tools-List: Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/datasets/Zellic/smart-contract-fiesta&#34;&gt;Zellic/smart-contract-fiesta · Datasets at Hugging Face&lt;/a&gt; &lt;sub&gt;(huggingface.co)&lt;/sub&gt;
+ - Zellic is making publicly available a dataset of known Ethereum mainnet smart contract source code. Our aim is to provide a contract source code dataset that is readily available to the public to download in bulk. We believe this dataset will help advance the frontier of smart contract security research. Applications include static analysis, machine learning, and more. This effort is part of Zellic’s mission to create a world with no smart contract hacks. { &lt;a href=&#34;https://smartcontractstack.com/tags/data&#34;&gt;#data&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/smart-contract&#34;&gt;#smart-contract&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://moivre.xyz/&#34;&gt;Moivre&lt;/a&gt; &lt;sub&gt;(moivre.xyz)&lt;/sub&gt;
+ - Moivre – Nansen for Twitter. We track and label Twitter accounts to discover 10x opportunities early for you. { &lt;a href=&#34;https://smartcontractstack.com/tags/tracking&#34;&gt;#tracking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.impersonator.xyz/&#34;&gt;Impersonator&lt;/a&gt; &lt;sub&gt;(impersonator.xyz)&lt;/sub&gt;
+ - Impersonate any wallet address { &lt;a href=&#34;https://smartcontractstack.com/tags/wallet&#34;&gt;#wallet&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coindesk.com/podcasts/the-breakdown-with-nlw/sergey-nazarov-on-why-the-world-needs-a-new-model-of-cryptographic-trust/&#34;&gt;Sergey Nazarov on Why the World Needs a New Model of (Cryptographic) Trust&lt;/a&gt; &lt;sub&gt;(coindesk.com)&lt;/sub&gt;
+ - NLW is joined by Chainlink co-founder Sergey Nazarov for the first in “The Breakdown”&amp;rsquo;s &amp;ldquo;Paradigm Shift&amp;rdquo; interview series. Sergey discusses why society&amp;rsquo;s trust model has broken down, how cryptographic truth serves as an alternative, and why this alternative method of understanding truth will become even more important as a countermeasure to artificial intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://token.unlocks.app/ethereum-shanghai&#34;&gt;The Best Ethereum Shanghai Upgrade Massive Unlock Dashboard&lt;/a&gt; &lt;sub&gt;(token.unlocks.app)&lt;/sub&gt;
+ - Ethereum Shanghai Unlocks Dashboard from TokenUnlocks provides real-time updates on staked ETH withdrawals and validator insights for the hard fork.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/johnrising_/status/1647859209126412289&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - One downside of Smart Accounts is that transaction fees are higher. But how much more expensive are they really? I crunched the numbers and posted them to Stackup&amp;rsquo;s blog 🤓&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/doganeth_en/status/1640062610161688577&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Introducing Opclave: An Op Stack chain that enables to turn iPhone&amp;rsquo;s into a hardware wallet with fully Account Abstraction support.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/apes_prologue/status/1648654431322349568&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - $PEPE: Mysterious Whales&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartcontractshacking.com/&#34;&gt;Smart Contracts Hacking Course&lt;/a&gt; &lt;sub&gt;(smartcontractshacking.com)&lt;/sub&gt;
+ - Master the Most Demanded Skill in the industry 🚀 { &lt;a href=&#34;https://smartcontractstack.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/&#34;&gt;Funds of every wallet created with the Trust Wallet browser extension could have been stolen without any user interaction&lt;/a&gt; &lt;sub&gt;(blog.ledger.com)&lt;/sub&gt;
+ - The Ledger Donjon has recently discovered a critical vulnerability in this browser extension, allowing an attacker to steal all the assets of any wallet created with this extension, without any user interaction. By knowing the address of an account, it is possible to immediately compute its private key, then access all its funds. Below are details of the vulnerability, how the Ledger Donjon discovered it, its impact over time, an estimation of the vulnerable assets, and how Trust Wallet responded to fix it. But let’s start with recalling the basics. { &lt;a href=&#34;https://smartcontractstack.com/tags/wallet&#34;&gt;#wallet&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://roddytech.medium.com/a-guide-to-twitters-search-operators-osint-%EF%B8%8F-%EF%B8%8F-b617bb7c59a&#34;&gt;A Guide To Twitter Search Operators: OSINT 🕵️‍♂️ | by RoddyT3ch | Apr, 2023 | Medium&lt;/a&gt; &lt;sub&gt;(roddytech.medium.com)&lt;/sub&gt;
+ - Now In this guide, we are going to explore some Twitters search operators and their use cases. Which can be used by many types of professionals/amateur&amp;rsquo;s alike to find sales leads, conduct research for a paper, follow trends/culture, and even Conduct Real-time OSINT &amp;amp; much more. With the help of Twitters millions of active users. { &lt;a href=&#34;https://smartcontractstack.com/tags/twitter&#34;&gt;#twitter&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/guide&#34;&gt;#guide&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dune.com/21shares_research/mt-gox-bitcoin-tracker&#34;&gt;&lt;/a&gt; &lt;sub&gt;(dune.com)&lt;/sub&gt;
+ - This is a lower-bound estimation of the Mt. Gox trustee&amp;rsquo;s BTC holdings based on publicly-known addresses. Source: TokenUnlocks { &lt;a href=&#34;https://smartcontractstack.com/tags/mtgox&#34;&gt;#mtgox&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/bitcoin&#34;&gt;#bitcoin&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://daotimes.com/an-interview-with-a-dao-money-grabber-how-they-are-draining-treasuries/&#34;&gt;An interview with a DAO money grabber, how they are draining treasuries&lt;/a&gt; &lt;sub&gt;(daotimes.com)&lt;/sub&gt;
+ - DAOs have garnered significant attention and investment within the realm of cryptocurrency, with several managing billions in their respective treasuries. However, not all participants in DAOs possess noble intentions. Certain contributors seek to manipulate the system, siphoning funds from treasuries without providing any corresponding value. { &lt;a href=&#34;https://smartcontractstack.com/tags/dao&#34;&gt;#dao&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://defieducation.substack.com/p/the-disruptive-potential-of-on-chain&#34;&gt;The Disruptive Potential of On-chain Reputations&lt;/a&gt; &lt;sub&gt;(defieducation.substack.com)&lt;/sub&gt;
+ - The rise of crypto has led to a paradigm shift in how we conduct online transactions and interact with one another. As the world moves towards on-chain solutions, decentralized identity and reputation systems are becoming increasingly important in establishing trust. { &lt;a href=&#34;https://smartcontractstack.com/tags/reputation&#34;&gt;#reputation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/layerggofficial/status/1651876225156268033&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - All the announced Web3 related events for May 2023. { &lt;a href=&#34;https://smartcontractstack.com/tags/event&#34;&gt;#event&lt;/a&gt;
+ } [ht: ]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://awawat.medium.com/derivatives-trading-101-15389091f768&#34;&gt;Derivatives Trading for Dummies. Disclaimer: this article was made… | by Awawat | Apr, 2023 | Medium&lt;/a&gt; &lt;sub&gt;(awawat.medium.com)&lt;/sub&gt;
+ - A great introduction to crypto derivatives and what tools experienced traders are using { &lt;a href=&#34;https://smartcontractstack.com/tags/trading&#34;&gt;#trading&lt;/a&gt;
+ } [ht: ]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wublock.substack.com/p/weekly-project-updates-starkware&#34;&gt;Weekly project updates: StarkWare 2023 roadmap, Filecoin to launch FWS, Polygon Bridge, etc &lt;/a&gt; &lt;sub&gt;(wublock.substack.com)&lt;/sub&gt;
+ - Weekly project updates: StarkWare 2023 roadmap, Filecoin to launch FWS, Polygon Bridge, etc { &lt;a href=&#34;https://smartcontractstack.com/tags/updates&#34;&gt;#updates&lt;/a&gt;
+ } [ht: ]&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

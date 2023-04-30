@@ -6,11 +6,21 @@
     <description>Recent content in Tags on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>adoption</title>
+      <link>https://smartcontractstack.com/tags/adoption/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/adoption/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>arbitrum</title>
       <link>https://smartcontractstack.com/tags/arbitrum/</link>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://smartcontractstack.com/tags/arbitrum/</guid>
       <description></description>
@@ -18,11 +28,221 @@
     </item>
     
     <item>
+      <title>aws</title>
+      <link>https://smartcontractstack.com/tags/aws/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/aws/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>bitcoin</title>
+      <link>https://smartcontractstack.com/tags/bitcoin/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/bitcoin/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>chainlink</title>
       <link>https://smartcontractstack.com/tags/chainlink/</link>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://smartcontractstack.com/tags/chainlink/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dao</title>
+      <link>https://smartcontractstack.com/tags/dao/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/dao/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://smartcontractstack.com/tags/data/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/data/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>dex</title>
+      <link>https://smartcontractstack.com/tags/dex/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/dex/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>https://smartcontractstack.com/tags/event/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/event/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>gmx</title>
+      <link>https://smartcontractstack.com/tags/gmx/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/gmx/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://smartcontractstack.com/tags/guide/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/guide/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://smartcontractstack.com/tags/learning/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/learning/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>mtgox</title>
+      <link>https://smartcontractstack.com/tags/mtgox/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/mtgox/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>oss</title>
+      <link>https://smartcontractstack.com/tags/oss/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/oss/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>regulation</title>
+      <link>https://smartcontractstack.com/tags/regulation/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/regulation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>reputation</title>
+      <link>https://smartcontractstack.com/tags/reputation/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/reputation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>sec</title>
+      <link>https://smartcontractstack.com/tags/sec/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/sec/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>smart-contract</title>
+      <link>https://smartcontractstack.com/tags/smart-contract/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/smart-contract/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>tracking</title>
+      <link>https://smartcontractstack.com/tags/tracking/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/tracking/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>trading</title>
+      <link>https://smartcontractstack.com/tags/trading/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/trading/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://smartcontractstack.com/tags/twitter/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/twitter/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>https://smartcontractstack.com/tags/updates/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/updates/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>usdc</title>
+      <link>https://smartcontractstack.com/tags/usdc/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/usdc/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>wallet</title>
+      <link>https://smartcontractstack.com/tags/wallet/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/tags/wallet/</guid>
       <description></description>
       <content></content>
     </item>
@@ -33,26 +253,6 @@
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://smartcontractstack.com/tags/coinbase/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>regulation</title>
-      <link>https://smartcontractstack.com/tags/regulation/</link>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://smartcontractstack.com/tags/regulation/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>wallet</title>
-      <link>https://smartcontractstack.com/tags/wallet/</link>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://smartcontractstack.com/tags/wallet/</guid>
       <description></description>
       <content></content>
     </item>
