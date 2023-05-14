@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>irs on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</title>
+    <link>https://smartcontractstack.com/tags/irs/</link>
+    <description>Recent content in irs on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/irs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 19 - 2023</title>
+      <link>https://smartcontractstack.com/posts/w19-2023/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/posts/w19-2023/</guid>
+      <description>security on data passed between multiple blockchains news U.S. Exchanges List More Than a Dozen Cryptos the SEC Says Are Illegal to Sell - WSJ (wsj.com) | [💬 discussion] - Number of tokens regulator has labeled as securities almost tripled in 2022 { #regulation }
+🐦 view tweet (twitter.com) - JUST IN: Bittrex #crypto exchange files for Chapter 11 bankruptcy. { #exchange }
+🐦 view tweet (twitter.com) - JUST IN: Goldman Sachs, Microsoft, Deloitte, and others partner to launch a blockchain network.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://smartcontractstack.com/img/w19-2023-smartcontractstack.png&#34;  alt=&#34;security on data passed between multiple blockchains&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;security on data passed between multiple blockchains&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wsj.com/articles/u-s-exchanges-list-more-than-a-dozen-cryptos-the-sec-says-are-illegal-to-sell-6c323b4&#34;&gt;U.S. Exchanges List More Than a Dozen Cryptos the SEC Says Are Illegal to Sell - WSJ&lt;/a&gt; &lt;sub&gt;(wsj.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35862351&#34;&gt;💬 discussion&lt;/a&gt;] - Number of tokens regulator has labeled as securities almost tripled in 2022 { &lt;a href=&#34;https://smartcontractstack.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/WatcherGuru/status/1655684837703929858&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - JUST IN: Bittrex #crypto exchange files for Chapter 11 bankruptcy. { &lt;a href=&#34;https://smartcontractstack.com/tags/exchange&#34;&gt;#exchange&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/WatcherGuru/status/1655927184253497345&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - JUST IN: Goldman Sachs, Microsoft, Deloitte, and others partner to launch a blockchain network. { &lt;a href=&#34;https://smartcontractstack.com/tags/adoption&#34;&gt;#adoption&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2023-05-09/jane-street-jump-pull-back-crypto-trading-amid-us-crackdown&#34;&gt;Jane Street, Jump Slow Crypto Trading As US Regulators Crack Down - Bloomberg&lt;/a&gt; &lt;sub&gt;(bloomberg.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35881051&#34;&gt;💬 discussion&lt;/a&gt;] - Regulatory uncertainty has made the business more difficult. Scrutiny intensified in the wake of the FTX, TerraUSD failures { &lt;a href=&#34;https://smartcontractstack.com/tags/trading&#34;&gt;#trading&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cointelegraph.com/news/federal-reserve-s-fednow-will-integrate-with-metal-blockchain&#34;&gt;Federal Reserve&amp;rsquo;s FedNow will connect with Metal Blockchain&lt;/a&gt; &lt;sub&gt;(cointelegraph.com)&lt;/sub&gt;
+ - The integration will allow users to instantly convert cash to stablecoin for use in DeFi protocols. { &lt;a href=&#34;https://smartcontractstack.com/tags/fed&#34;&gt;#fed&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/defi&#34;&gt;#defi&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unchainedcrypto.com/irs-files-44-billion-claims-against-bankrupt-ftx/&#34;&gt;IRS Files $44 Billion Claims Against Bankrupt FTX - Unchained Crypto&lt;/a&gt; &lt;sub&gt;(unchainedcrypto.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35904118&#34;&gt;💬 discussion&lt;/a&gt;] - The IRS’ claims against the crypto exchange could take precedence over claims of other FTX creditors. { &lt;a href=&#34;https://smartcontractstack.com/tags/irs&#34;&gt;#irs&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/tax&#34;&gt;#tax&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/05/11/pudgy-penguins-9m-seed-round-could-point-to-a-growing-nft-industry/&#34;&gt;Pudgy Penguin’s $9M seed round could point to a growing NFT industry | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ - Earlier this week, Pudgy Penguins, an NFT collection that also doubles as a web3 IP company, raised $9 million for its seed round. { &lt;a href=&#34;https://smartcontractstack.com/tags/nft&#34;&gt;#nft&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/raise&#34;&gt;#raise&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.contractreader.io/&#34;&gt;ContractReader&lt;/a&gt; &lt;sub&gt;(contractreader.io)&lt;/sub&gt;
+ - Good UI Smart contract reader (has integrations with gpt) { &lt;a href=&#34;https://smartcontractstack.com/tags/gpt&#34;&gt;#gpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.breadcrumbs.app/&#34;&gt;Breadcrumbs - Blockchain Investigation Tool&lt;/a&gt; &lt;sub&gt;(breadcrumbs.app)&lt;/sub&gt;
+ - Breadcrumbs is an open blockchain analytics platform. It offers a set of tools that empowers you to trace and monitor crypto transactions. { &lt;a href=&#34;https://smartcontractstack.com/tags/analytics&#34;&gt;#analytics&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/tracking&#34;&gt;#tracking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://copperx.io/&#34;&gt;Copperx - Blockchain Payment APIs for businesses&lt;/a&gt; &lt;sub&gt;(copperx.io)&lt;/sub&gt;
+ - Accept payments in Bitcoin, ETH, and USDC seamlessly across various networks and wallets. Get instant settlements, send payouts and manage your business online with a unified dashboard. { &lt;a href=&#34;https://smartcontractstack.com/tags/btc&#34;&gt;#btc&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/eth&#34;&gt;#eth&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/usdc&#34;&gt;#usdc&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wagmi.sh/&#34;&gt;wagmi: React Hooks for Ethereum – wagmi&lt;/a&gt; &lt;sub&gt;(wagmi.sh)&lt;/sub&gt;
+ - wagmi is a collection of React Hooks containing everything you need to start working with Ethereum. wagmi makes it easy to &amp;ldquo;Connect Wallet,&amp;rdquo; display ENS and balance information, sign messages, interact with contracts, and much more — all with caching, request deduplication, and persistence. { &lt;a href=&#34;https://smartcontractstack.com/tags/wallet&#34;&gt;#wallet&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/react&#34;&gt;#react&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/TurnerNovak/status/1654577231937544192&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35864540&#34;&gt;💬 discussion&lt;/a&gt;] - Coinbase (?) had a $65 million Datadog bill per its Q1 earnings call. Wild. { &lt;a href=&#34;https://smartcontractstack.com/tags/coinbase&#34;&gt;#coinbase&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/data&#34;&gt;#data&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/dat_she_pepe/status/1655393401833963520&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Ordinals on BTC - BRC20 tokens explained { &lt;a href=&#34;https://smartcontractstack.com/tags/bitcoin&#34;&gt;#bitcoin&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/brc20&#34;&gt;#brc20&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackernoon.com/the-denominator&#34;&gt;The Denominator | HackerNoon&lt;/a&gt; &lt;sub&gt;(hackernoon.com)&lt;/sub&gt;
+ - Don&amp;rsquo;t let a dead cat bounce fool ya. The US banking system will be nationalised. The only question is will you be one of the schmucks in &amp;ldquo;The Denominator&amp;rdquo;, paying for its cleanup. Read the essay to understand the next stages of the collapse. { &lt;a href=&#34;https://smartcontractstack.com/tags/macro&#34;&gt;#macro&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/bitcoin&#34;&gt;#bitcoin&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery&#34;&gt;Datadog’s $65M/year customer mystery solved&lt;/a&gt; &lt;sub&gt;(newsletter.pragmaticengineer.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35904881&#34;&gt;💬 discussion&lt;/a&gt;] - The internet has been speculating the past few days on which crypto company spent $65M on Datadog in 2022. I confirmed it was Coinbase, and here are the details of what happened. { &lt;a href=&#34;https://smartcontractstack.com/tags/infra&#34;&gt;#infra&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/pcaversaccio/status/1657083094812463106&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - 👀beacon chain suffers again a finality issue. As it looks now to me someone is aware of the issue and live exploiting it&amp;hellip; { &lt;a href=&#34;https://smartcontractstack.com/tags/exploit&#34;&gt;#exploit&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/eth&#34;&gt;#eth&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/binance/status/1657099651210969088&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Binance Announces Exit from Canada { &lt;a href=&#34;https://smartcontractstack.com/tags/exchange&#34;&gt;#exchange&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/CryptoNasss/status/1657037245931569152&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Comparing modular blockchains { &lt;a href=&#34;https://smartcontractstack.com/tags/blockchain&#34;&gt;#blockchain&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/stats&#34;&gt;#stats&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/DeFiMinty/status/1657147873593532423&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Information is king in crypto, but how do you navigate this sea of data to gain an edge? Discover my top 10 FREE tools I use regularly to inform my decisions.  { &lt;a href=&#34;https://smartcontractstack.com/tags/defi&#34;&gt;#defi&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/tool&#34;&gt;#tool&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
