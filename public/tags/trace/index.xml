@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trace on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</title>
+    <link>https://smartcontractstack.com/tags/trace/</link>
+    <description>Recent content in trace on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/trace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 20 - 2023</title>
+      <link>https://smartcontractstack.com/posts/w20-2023/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/posts/w20-2023/</guid>
+      <description>high-tech smart contract analysis tool news tool metasleuth (metasleuth.io) { #trace }
+Bytegraph - Smart-Contract Analysis (bytegraph.xyz) - Smart-Contract Analysis { #ethereum #trace }
+misc 🐦 view tweet (twitter.com) - Ledger just released a new update for Nano X that allows social recovery of your seed phrase. { #wallet #privacy }
+Review and analysis of fake Trezor cryptowallet | Kaspersky official blog (kaspersky.com) - Full review of a fake cryptowallet incident.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://smartcontractstack.com/img/w20-2023-smartcontractstack.png&#34;  alt=&#34;high-tech smart contract analysis tool&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;high-tech smart contract analysis tool&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://metasleuth.io/&#34;&gt;metasleuth&lt;/a&gt; &lt;sub&gt;(metasleuth.io)&lt;/sub&gt;
+ { &lt;a href=&#34;https://smartcontractstack.com/tags/trace&#34;&gt;#trace&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bytegraph.xyz/&#34;&gt;Bytegraph - Smart-Contract Analysis&lt;/a&gt; &lt;sub&gt;(bytegraph.xyz)&lt;/sub&gt;
+ - Smart-Contract Analysis { &lt;a href=&#34;https://smartcontractstack.com/tags/ethereum&#34;&gt;#ethereum&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/trace&#34;&gt;#trace&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Mudit__Gupta/status/1658368265687556097&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Ledger just released a new update for Nano X that allows social recovery of your seed phrase. { &lt;a href=&#34;https://smartcontractstack.com/tags/wallet&#34;&gt;#wallet&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/&#34;&gt;Review and analysis of fake Trezor cryptowallet | Kaspersky official blog&lt;/a&gt; &lt;sub&gt;(kaspersky.com)&lt;/sub&gt;
+ - Full review of a fake cryptowallet incident. It looks and feels like a Trezor wallet, but puts all your crypto-investments into the hands of criminals. { &lt;a href=&#34;https://smartcontractstack.com/tags/wallet&#34;&gt;#wallet&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/hack&#34;&gt;#hack&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money&#34;&gt;US Secret Service: blockchain is a money-tracking tool&lt;/a&gt; &lt;sub&gt;(coinpaper.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35965896&#34;&gt;💬 discussion&lt;/a&gt;] - The US Secret Service held an AMA session on Reddit’s cryptocurrency subreddit. The agency claims it can recover stolen crypto and advises using cash for privacy. { &lt;a href=&#34;https://smartcontractstack.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/samczsun/status/1660012956632104960&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control. { &lt;a href=&#34;https://smartcontractstack.com/tags/hack&#34;&gt;#hack&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
