@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smartcontractstack.com/tags/community/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/dev/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/exchange/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/jobs/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/posts/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/projects/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/regulation/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/sec/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/tags/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smartcontractstack.com/posts/w23-2023/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://smartcontractstack.com/tags/bitcoin/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/defi/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/tags/exchange/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/gemini/</loc>
@@ -21,15 +51,6 @@
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/macro/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/posts/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/tags/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/web3/</loc>
@@ -69,9 +90,6 @@
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/privacy/</loc>
-    <lastmod>2023-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/tags/regulation/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/report/</loc>
@@ -173,9 +191,6 @@
     <loc>https://smartcontractstack.com/tags/chatgpt/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://smartcontractstack.com/tags/dev/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://smartcontractstack.com/tags/event/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -198,9 +213,6 @@
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/peso/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smartcontractstack.com/tags/sec/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smartcontractstack.com/tags/solidity/</loc>

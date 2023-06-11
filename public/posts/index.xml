@@ -6,7 +6,48 @@
     <description>Recent content in Posts on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 23 - 2023</title>
+      <link>https://smartcontractstack.com/posts/w23-2023/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/posts/w23-2023/</guid>
+      <description>forking a blockchain within a datastream news SEC Sues Binance and CEO Zhao for Breaking US Securities Rules - Bloomberg (bloomberg.com) | [💬 discussion] - The SEC accused Binance US of providing trading for securities such as BNB, BUSD, SOL, ADA, MATIC, FIL, ATOM, SAND, MANA, ALGO, AXS, and COTI. { #sec #regulation }
+Coinbase Sued by SEC for Breaking US Securities Rules (COIN) - Bloomberg (bloomberg.com) | [💬 discussion] - Regulator’s suit comes day after crypto platform Binance sued.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://smartcontractstack.com/img/w23-2023-smartcontractstack.png&#34;  alt=&#34;forking a blockchain within a datastream&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;forking a blockchain within a datastream&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules&#34;&gt;SEC Sues Binance and CEO Zhao for Breaking US Securities Rules - Bloomberg&lt;/a&gt; &lt;sub&gt;(bloomberg.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36197353&#34;&gt;💬 discussion&lt;/a&gt;] - The SEC accused Binance US of providing trading for securities such as BNB, BUSD, SOL, ADA, MATIC, FIL, ATOM, SAND, MANA, ALGO, AXS, and COTI. { &lt;a href=&#34;https://smartcontractstack.com/tags/sec&#34;&gt;#sec&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules&#34;&gt;Coinbase Sued by SEC for Breaking US Securities Rules (COIN) - Bloomberg&lt;/a&gt; &lt;sub&gt;(bloomberg.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36211567&#34;&gt;💬 discussion&lt;/a&gt;] - Regulator’s suit comes day after crypto platform Binance sued. Coinbase accused of offering tokens that were securities { &lt;a href=&#34;https://smartcontractstack.com/tags/sec&#34;&gt;#sec&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/exchange&#34;&gt;#exchange&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jobstash.xyz/&#34;&gt;JobStash&lt;/a&gt; &lt;sub&gt;(jobstash.xyz)&lt;/sub&gt;
+ - Our aggregator is live and we&amp;rsquo;re adding new jobs every day. We have jobs from the top crypto companies and startups. We provide you, the developer, with the best set of information to allow you to make the best decision for your career. { &lt;a href=&#34;https://smartcontractstack.com/tags/jobs&#34;&gt;#jobs&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://builda.dev/&#34;&gt;Builda - Discover tomorrow&amp;rsquo;s Web3 projects, today.&lt;/a&gt; &lt;sub&gt;(builda.dev)&lt;/sub&gt;
+ - Builda is a community of early adopters and builders showcasing Web3 projects and exchanging feedback. { &lt;a href=&#34;https://smartcontractstack.com/tags/projects&#34;&gt;#projects&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/community&#34;&gt;#community&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.buildbear.io/&#34;&gt;BuildBear&lt;/a&gt; &lt;sub&gt;(buildbear.io)&lt;/sub&gt;
+ - Create a testnet that is forked from a range of Ethereum-compatible chains, including Polygon, Arbitrum, Optimism, Fantom, and Binance, at any block number. { &lt;a href=&#34;https://smartcontractstack.com/tags/dev&#34;&gt;#dev&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 22 - 2023</title>
       <link>https://smartcontractstack.com/posts/w22-2023/</link>
