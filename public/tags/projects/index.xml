@@ -6,7 +6,28 @@
     <description>Recent content in projects on Smart Contract Stack - Weekly Crypto, NFT, Blockchain Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smartcontractstack.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 24 - 2023</title>
+      <link>https://smartcontractstack.com/posts/w24-2023/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartcontractstack.com/posts/w24-2023/</guid>
+      <description>news tool TheValueProp (thevalueprop.io) - The fundamental value proposition for blockchains. Through use cases, across networks, and around the world. { #projects }
+misc “But the SEC let us go public” and other flawed arguments in Coinbase&amp;rsquo;s defense (newsletter.mollywhite.net) | [💬 discussion] - Coinbase is trotting out its usual flawed arguments now that it&amp;rsquo;s facing a lawsuit from the SEC, and more pushback is needed. { #coinbase #sec }</description>
+      <content>&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://thevalueprop.io/&#34;&gt;TheValueProp&lt;/a&gt; &lt;sub&gt;(thevalueprop.io)&lt;/sub&gt;
+ - The fundamental value proposition for blockchains. Through use cases, across networks, and around the world. { &lt;a href=&#34;https://smartcontractstack.com/tags/projects&#34;&gt;#projects&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and&#34;&gt;“But the SEC let us go public” and other flawed arguments in Coinbase&amp;rsquo;s defense&lt;/a&gt; &lt;sub&gt;(newsletter.mollywhite.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36302231&#34;&gt;💬 discussion&lt;/a&gt;] - Coinbase is trotting out its usual flawed arguments now that it&amp;rsquo;s facing a lawsuit from the SEC, and more pushback is needed. { &lt;a href=&#34;https://smartcontractstack.com/tags/coinbase&#34;&gt;#coinbase&lt;/a&gt;
+ &lt;a href=&#34;https://smartcontractstack.com/tags/sec&#34;&gt;#sec&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 23 - 2023</title>
       <link>https://smartcontractstack.com/posts/w23-2023/</link>
